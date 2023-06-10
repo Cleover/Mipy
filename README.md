@@ -6,6 +6,16 @@ Translation: Mipy utilizes the powerful ChatGPT language model to provide accura
 
 Optional Example Translations: By providing examples, you can guide ChatGPT to generate translations that align with the desired speech style commonly found in manga and novels.
 
+# Why use this over a normal ChatGPT window?
+Well, this program was really just made to suit my needs for translating manga with ChatGPT fast, using an OCR program you can scan in a page, and in one click have it translate it. With an optional output to a discord channel using a webhook url this makes it super speedy to scan in a page, use the keybind, and then scan the next.
+
+## The Main Window
+![main](./images/main.png)
+
+## Translating Text
+![example](./images/example.gif)
+
+
 # Getting Started
 To use Mipy, follow these steps:
 
