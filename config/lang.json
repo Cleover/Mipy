@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Spanish",
+      "image": "https://flagicons.lipis.dev/flags/4x3/es.svg"
+    },
+    {
+      "name": "French",
+      "image": "https://flagicons.lipis.dev/flags/4x3/fr.svg"
+    },
+    {
+      "name": "English",
+      "image": "https://flagicons.lipis.dev/flags/4x3/gb.svg"
+    },
+    {
+      "name": "German",
+      "image": "https://flagicons.lipis.dev/flags/4x3/de.svg"
+    },
+    {
+      "name": "Italian",
+      "image": "https://flagicons.lipis.dev/flags/4x3/it.svg"
+    },
+    {
+      "name": "Portuguese",
+      "image": "https://flagicons.lipis.dev/flags/4x3/pt.svg"
+    },
+    {
+      "name": "Dutch",
+      "image": "https://flagicons.lipis.dev/flags/4x3/nl.svg"
+    },
+    {
+      "name": "Chinese",
+      "image": "https://flagicons.lipis.dev/flags/4x3/cn.svg"
+    },
+    {
+      "name": "Japanese",
+      "image": "https://flagicons.lipis.dev/flags/4x3/jp.svg"
+    },
+    {
+      "name": "Korean",
+      "image": "https://flagicons.lipis.dev/flags/4x3/kr.svg"
+    },
+    {
+      "name": "Russian",
+      "image": "https://flagicons.lipis.dev/flags/4x3/ru.svg"
+    },
+    {
+      "name": "Arabic",
+      "image": "https://flagicons.lipis.dev/flags/4x3/sa.svg"
+    }
+  ]
+  

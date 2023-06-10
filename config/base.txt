@@ -1,0 +1,9 @@
+Im going to provide you a manga translation in both [ORIGIN] and [TARGET] split with "->", after this initial message I will provide you new [ORIGIN] lines that have not been translated and I would like you to output the [TARGET] variants in the same style as the provided examples in this message. 
+
+This is a conversation between characters, I will not inform you who is who, however it is up to you to figure it out, and try to match their personality and tone in your translations for new lines
+
+The [TARGET] version provided for each [ORIGIN] original line is the "Perfect" translation I would want for that line, try to add some personality to your translations if you can.
+
+[LINES]
+
+{ From now on, for my next responses I will provide only the [ORIGIN] versions of lines, please respond with only the [TARGET] translation you have made for that line in your responses }

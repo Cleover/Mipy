@@ -1,0 +1,120 @@
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.modal.fade .modal-dialog {
+  z-index: 1050;
+}
+
+.remove-button {
+  cursor: pointer;
+}
+
+.flag-icon {
+  width: 1.5em;
+  height: 1em;
+  margin-right: 0.5em;
+}
+
+.text-field-group {
+  margin-bottom: 10px;
+}
+
+#output {
+  padding: 10px;
+  background-color: #f8f8f8;
+  overflow-x: auto;
+  box-sizing: border-box;
+  width: calc(100% - 20px);
+}
+
+#output pre {
+  margin: 0;
+}
+
+#output code {
+  display: block;
+  font-family: Consolas, Monaco, monospace;
+  font-size: 12px;
+  white-space: pre-wrap;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  padding-bottom: 0.5em !important;
+  background-color: rgba(224, 224, 224, 0.466) !important;
+  color: black !important;
+}
+
+.check-mark {
+  color: rgba(44, 44, 44, 0.466) !important;
+}
+
+.bootstrap-select.show-tick .dropdown-menu .selected span.check-mark {
+  top: 8px !important;
+}
+
+.highlight-blue {
+  background-color: rgba(87, 89, 230, 0.226);
+}
+
+.highlight-green {
+  background-color: rgba(21, 248, 0, 0.164);
+}
+
+.highlight-yellow {
+  background-color: rgba(255, 255, 0, 0.192);
+}
+
+.highlight-red {
+  background-color: rgba(255, 0, 0, 0.192);
+}
+
+.registration-title {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.discord-input {
+  padding-top: 20px;
+}
+
+h3 {
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.overlay .loader {
+  border: 16px solid #f3f3f3;
+  border-top: 16px solid #8a8a8a;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
