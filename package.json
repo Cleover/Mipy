@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "GNU",
   "devDependencies": {
     "electron": "^25.0.1"
   },
