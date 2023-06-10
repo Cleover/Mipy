@@ -10,6 +10,7 @@ Optional Example Translations: By providing examples, you can guide ChatGPT to g
 To use Mipy, follow these steps:
 
 Clone the Mipy repository to your local machine.
+Fill out the config located in `Mipy/config/example.env` with your ChatGPT Access Token, and a API reverse proxy URL, one is provided in the config, however this may cease to work down the line.
 Install the required dependencies by running `npm install` in the project directory.
 Start the application by running `npm start`.
 
