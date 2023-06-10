@@ -7,7 +7,15 @@ Translation: Mipy utilizes the powerful ChatGPT language model to provide accura
 Optional Example Translations: By providing examples, you can guide ChatGPT to generate translations that align with the desired speech style commonly found in manga and novels.
 
 # Why use this over a normal ChatGPT window?
-Well, this program was really just made to suit my needs for translating manga with ChatGPT fast, using an OCR program you can scan in a page, and in one click have it translate it. With an optional output to a discord channel using a webhook url this makes it super speedy to scan in a page, use the keybind, and then scan the next.
+Mipy is designed specifically for manga translation with ChatGPT, offering several advantages over conventional interfaces:
+
+Fast Translations: Mipy allows you to quickly translate manga pages by also using it with an OCR program. This way you can scan a page, use a keybind and have it translated (and optionally sent to a discord channel), making the process swift and efficient.
+
+User-Friendly: Mipy provides an easy-to-use interface, making it accessible to users of all levels of technical expertise. You can save and load configs for different languages and writing styles to quickly pick things up another time
+
+Discord Integration: Mipy allows you to include a Discord channel Webhook URL allowing you to quickly send your outputs to a discord channel for use with your team.
+
+Choose Mipy to speed up your manga translation workflow and enjoy its user-friendly interface, OCR integration, and Discord integration.
 
 ## The Main Window
 ![main](./images/main.png)
